@@ -19,3 +19,5 @@ This project is a responsive single-page portfolio website created using HTML an
 <img width="1290" height="657" alt="Image" src="https://github.com/user-attachments/assets/cdbd6041-d502-4fca-bd81-80df393dd4ee" />
 
 <img width="1290" height="657" alt="Image" src="https://github.com/user-attachments/assets/679b28d0-41cf-4486-b1d3-04ddb1ab894f" />
+
+
